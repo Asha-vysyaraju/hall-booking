@@ -9,3 +9,6 @@ SERVER LINK:https://hall-booking-hz1u.onrender.com/
 
 
 API Documentation in Postman Docs:https://documenter.getpostman.com/view/33428479/2sA35Bc4rN
+
+![image](https://github.com/Asha-vysyaraju/hall-booking/assets/18022094/881dc272-d3fc-4c9a-963a-be5b062801cc)
+
